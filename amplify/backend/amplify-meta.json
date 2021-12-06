@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-studycognitonextjs-dev-152711-authRole",
+      "UnauthRoleArn": "arn:aws:iam::854362811266:role/amplify-studycognitonextjs-dev-152711-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::854362811266:role/amplify-studycognitonextjs-dev-152711-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-studycognitonextjs-dev-152711-deployment",
+      "UnauthRoleName": "amplify-studycognitonextjs-dev-152711-unauthRole",
+      "StackName": "amplify-studycognitonextjs-dev-152711",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:854362811266:stack/amplify-studycognitonextjs-dev-152711/8eb8dd70-565d-11ec-b7bc-065b09335493",
+      "AmplifyAppId": "d2se608e47wi6p"
+    }
+  }
+}
